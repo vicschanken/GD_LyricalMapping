@@ -1,0 +1,93 @@
+
+
+
+
+h1 { 		font-size: 12vw;
+			color: black;
+			letter-spacing:6px;
+		
+			
+			
+		}
+
+p {
+			font-size: 16px;
+			width:;
+
+		}
+
+		.allcontent {
+			max-width:850px;
+			margin:0 auto;
+     ;
+
+		}
+
+
+
+body {
+
+  font-family: 'Helvetica', bold;
+  background-image: url(solid.png);
+  background-size: 100% auto;
+}
+  
+}
+
+path {
+  fill: transparent;
+}
+
+svg.layer-2 {
+	position: center;
+	margin-top: px;
+  font-size: 3vw;
+  padding: 35px;
+}
+
+h2 {
+			font-size: 4vw;
+			color: black;
+		
+			
+		}
+
+h3 {
+			font-size: 5vw;
+			color: black;
+			
+		
+			
+		}
+
+
+
+h4 {
+			font-size: 3vw;
+			color: ;
+			line-height: 1.5;
+		
+			
+		}	
+
+
+h5 {
+			font-size: 8vw;
+			
+			
+		}
+
+h6 { 		font-size: 12vw;
+			color: black;
+			letter-spacing:10px;
+			line-height: 3;
+
+		}
+
+		.waves{
+			max-width:500px;
+			margin:60 auto;
+			float: center;
+     ;
+
+		}
